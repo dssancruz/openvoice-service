@@ -1,0 +1,4 @@
+
+flask
+torch
+openvoice==0.1.0
