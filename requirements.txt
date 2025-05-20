@@ -1,4 +1,3 @@
-
 flask
 torch
 git+https://github.com/myshell-ai/OpenVoice.git
